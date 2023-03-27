@@ -1,0 +1,13 @@
+.user-list-wrapper {
+    list-style-type: none;
+    padding: 10px;
+}
+
+.unser-list-button  {
+    background: none;
+    border: none;
+    padding: 0px;
+    outline: inherit;
+    font-size: 16px;
+    cursor: pointer;
+}
